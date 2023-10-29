@@ -4,3 +4,5 @@
 #2_Filtering_&_Sorting ex(4:6)
 
 #3_Grouping ex(7:9)
+
+#4_Apply & Merge ex(10:14)
