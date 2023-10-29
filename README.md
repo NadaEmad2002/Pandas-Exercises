@@ -5,4 +5,4 @@
 
 #3_Grouping ex(7:9)
 
-#4_Apply & Merge ex(10:14)
+#4_Applying_&_Mergeing ex(10:14)
