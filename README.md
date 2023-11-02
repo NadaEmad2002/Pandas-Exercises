@@ -6,3 +6,5 @@
 #3_Grouping ex(7:9)
 
 #4_Applying_&_Mergeing ex(10:14)
+
+#6_Time_Series & Deleting ex(18:21)
