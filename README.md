@@ -9,4 +9,6 @@
 
 #5_Stats Exercises ex(15,16)
 
-#6_Time_Series & Deleting ex(18:21)
+#6_Creating_Series_and_DataFrames ex(17)
+
+#7_Time_Series & Deleting ex(18:21)
