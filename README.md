@@ -7,4 +7,6 @@
 
 #4_Applying_&_Mergeing ex(10:14)
 
+#5_Stats Exercises ex(15,16)
+
 #6_Time_Series & Deleting ex(18:21)
