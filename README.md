@@ -12,3 +12,5 @@
 - 6_Creating_Series_and_DataFrames ex(17)
 
 - 7_Time_Series & Deleting ex(18:21)
+
+- 8_Visualization ex(22:25)
